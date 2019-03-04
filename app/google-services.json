@@ -1,0 +1,55 @@
+  {
+  "project_info": {
+    "project_number": "529321788064",
+    "firebase_url": "https://module-c9305.firebaseio.com",
+    "project_id": "module-c9305",
+    "storage_bucket": "module-c9305.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529321788064:android:321e4473f2beaf56",
+        "android_client_info": {
+          "package_name": "app.module.rushikesh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529321788064-8e42okvs1eil5gte349lnb0dp2j7ibma.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.module.rushikesh",
+            "certificate_hash": "0bc68d284dcc77313f832f4d924b4a543559b1c9"
+          }
+        },
+        {
+          "client_id": "529321788064-ul83c2f3fqsh5bsbqamrvk00vocbp1d0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuFBz_snBmpglLZQIy4ByiYCf9GOUx1Tk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "529321788064-ul83c2f3fqsh5bsbqamrvk00vocbp1d0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
